@@ -2,7 +2,10 @@
 
 ###
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joelespinosruiz/)
+<a href="https://www.linkedin.com/in/joelespinosruiz/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://joelespinos.github.io/portafoli/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"></a>
+
+###
 
 <p align="left">El meu nom és <strong>Joel Espinós</strong>, soc un estudiant de Desenvolupament d'Aplicacions Web amb una gran passió per crear solucions web. <br><br>Treballo tant amb tecnologies Frontend com Backend, a més de tenir una sòlida base en bases de dades, la qual cosa em permet crear projectes complets i ben estructurats.<br><br>Estic en constant aprenentatge, buscant maneres de millorar les meves habilitats, explorar noves tecnologies que m'ajudin a créixer com a desenvolupador i que em brindin experiència.<br><br>Et convido a donar un cop d'ull en els meus repositoris i projectes.</p>
 
