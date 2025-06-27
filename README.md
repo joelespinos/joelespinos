@@ -1,4 +1,4 @@
-<h1 align="left">Hola👋 Benvingut al meu perfil!</h1>
+<h1 align="left">Hola👋 ¡Bienvenido a mi perfil!</h1>
 
 ###
 
@@ -7,11 +7,11 @@
 
 ###
 
-<p align="left">El meu nom és <strong>Joel Espinós</strong>, soc un estudiant de Desenvolupament d'Aplicacions Web amb una gran passió per crear solucions web. <br><br>Treballo tant amb tecnologies Frontend com Backend, a més de tenir una sòlida base en bases de dades, la qual cosa em permet crear projectes complets i ben estructurats.<br><br>Estic en constant aprenentatge, buscant maneres de millorar les meves habilitats, explorar noves tecnologies que m'ajudin a créixer com a desenvolupador i que em brindin experiència.<br><br>Et convido a donar un cop d'ull en els meus repositoris i projectes.</p>
+<p align="left">Mi nombre es <strong>Joel Espinós</strong>, soy un estudiante de Desarrollo de Aplicaciones Web con una gran pasión por crear soluciones web. <br><br>Trabajo tanto con tecnologías Frontend como Backend, además de tener una sólida base en bases de datos, lo que me permite crear proyectos completos y bien estructurados.<br><br>Estoy en constante aprendizaje, buscando maneras de mejorar mis habilidades, explorar nuevas tecnologías que me ayuden a crecer como desarrollador y que me brinden experiencia.<br><br>Te invito a echar un vistazo a mis repositorios y proyectos.</p>
 
 ###
 
-<h2 align="left">Tecnologies i eines</h2>
+<h2 align="left">Tecnologías y herramientas</h2>
 
 ###
 
