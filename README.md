@@ -16,6 +16,8 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height:50px;" alt="html5 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height:50px;" alt="css3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height:50px;" alt="javascript logo"  />
+  <img src="https://cdn.simpleicons.org/angular/DD0031" style="height:50px;" alt="angularjs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="height:50px;" alt="php logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="height:50px;" alt="java logo" />
   <img src="https://cdn.simpleicons.org/apachemaven/C71A36" style="height:50px;" alt="apachemaven logo" />
